@@ -1,0 +1,2 @@
+// default Config
+module.exports = {};

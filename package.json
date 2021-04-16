@@ -1,0 +1,20 @@
+{
+  "name": "nextjs-react-hook-form-react-datepicker",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-datepicker": "3.7.0",
+    "react-dom": "^16.13.1",
+    "react-hook-form": "7.1.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
